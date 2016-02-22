@@ -15,6 +15,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://fonts.googleapis.com/css?family=Nunito:300" />
+  </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="C:/Program Files/nodejs/node.exe" version="4.3.0" last-modified="1455021024000" />
   </component>
