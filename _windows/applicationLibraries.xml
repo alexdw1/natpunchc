@@ -32,5 +32,16 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
+    <library name="jquery.fileDownload" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_johnculviner_jquery.fileDownload_blob_master_src_Scripts_jquery.fileDownload.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_johnculviner_jquery.fileDownload_blob_master_src_Scripts_jquery.fileDownload.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
